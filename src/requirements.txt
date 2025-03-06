@@ -1,0 +1,8 @@
+psycopg2==2.9.10
+azure-mgmt-resource
+azure-mgmt-storage
+azure-identity
+azure-storage-blob
+azure-cosmos
+paho-mqtt
+azure-eventhub
